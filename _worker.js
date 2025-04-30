@@ -23,7 +23,7 @@ let go2Socks5s = [
 	'*.loadshare.org',
 ];
 let addresses = [];
-let addressesapi = ["https://raw.githubusercontent.com/ethgan/yxip/refs/heads/main/ip.txt"];
+let addressesapi = ["https://github.com/946727185/auto-ip-update/blob/091cd6b60b6f721d2bb2d3718cc5360af0bf392e/%E4%BC%98%E9%80%89ip.txt"];
 let addressesnotls = [];
 let addressesnotlsapi = [];
 let addressescsv = [];
