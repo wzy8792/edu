@@ -26,7 +26,7 @@ let addresses = [];
 let addressesapi = ["https://raw.githubusercontent.com/lu-lingyun/CloudflareST/main/TLS.txt"];
 let addressesnotls = [];
 let addressesnotlsapi = [];
-let addressescsv = [];
+let addressescsv = ["https://raw.githubusercontent.com/Bailitaotao/CloudflareST_Result/main/result.csv"];
 let DLS = 8;
 let remarkIndex = 1;//CSV备注所在列偏移量
 let FileName = atob('ZWRnZXR1bm5lbA==');
