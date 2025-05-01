@@ -23,7 +23,7 @@ let go2Socks5s = [
 	'*.loadshare.org',
 ];
 let addresses = [];
-let addressesapi = ["https://raw.githubusercontent.com/VolkanSah/Auto-Proxy-Fetcher/refs/heads/main/proxies.txt -o proxies.txt"];
+let addressesapi = ["https://raw.githubusercontent.com/VolkanSah/Auto-Proxy-Fetcher/main/proxies.txt"];
 let addressesnotls = [];
 let addressesnotlsapi = [];
 let addressescsv = [];
