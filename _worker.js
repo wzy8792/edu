@@ -23,7 +23,7 @@ let go2Socks5s = [
 	'*.loadshare.org',
 ];
 let addresses = [];
-let addressesapi = ["https://raw.githubusercontent.com/lu-lingyun/CloudflareST/main/TLS.txt"];
+let addressesapi = ["https://raw.githubusercontent.com/wzy8792/www/main/merged_all.txt"];
 let addressesnotls = [];
 let addressesnotlsapi = [];
 let addressescsv = ["https://raw.githubusercontent.com/Bailitaotao/CloudflareST_Result/main/result.csv"];
